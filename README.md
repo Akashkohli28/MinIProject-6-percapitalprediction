@@ -1,0 +1,1 @@
+# MinIProject-6-percapitalprediction
